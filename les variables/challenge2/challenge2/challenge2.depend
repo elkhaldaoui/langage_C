@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636712186 source:c:\users\oussama\desktop\challenges\challenge2\challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636712186 source:c:\users\oussama\desktop\sas\les variables\challenge2\challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+
