@@ -1,9 +1,8 @@
 #include <stdio.h>
+#include<stdlibr.h>
 int main()
 {
     int nbr, i;
-
-    test:
 
     printf(" Entrez un nombre: ");
     scanf("%d",&nbr);
@@ -14,7 +13,7 @@ int main()
         printf(" %d * %d = %d \n", nbr, i, nbr*i);
     }
 
-    goto test;
+
 
     return 0;
 }

@@ -7,8 +7,10 @@ int main ()
 
     printf ("donner le nombre des lignes ?");
     scanf ("%d",&o);
-    for (i=0;i<o;i++)
+        for (i=0;i<o;i++)
     {
+
+
         for (j=o-i;j>0;j--)
         {
             printf(" ");
@@ -17,8 +19,9 @@ int main ()
         {
             printf("*");
         }
+
         printf("\n");
-    }
-    goto
+
+     }
     return 0;
 }
